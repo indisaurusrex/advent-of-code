@@ -20,3 +20,9 @@ Of course, your expense report is much larger. Find the two entries that sum to 
 ## Input address
 https://adventofcode.com/2020/day/1/input
 
+## Working out how to do this
+Take the input as an array
+is it going to be quicker to:
+    find the smallest number and try and match that
+    find the final number and if it is sum 10 with the last number of the smallest, try the rest
+Should this run in node or browser with html?
